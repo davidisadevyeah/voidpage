@@ -1,0 +1,84 @@
+{
+  "users": {
+    "davidescu": {
+      "username": "davidescu",
+      "displayName": "Davidescu",
+      "password": "sarvatSarvat1000",
+      "role": "owner",
+      "avatar": null,
+      "banner": null,
+      "bio": "Platform owner & lead dev ⚡ Building voidpage.elementfx.com",
+      "handle": "@davidescu",
+      "accentColor": "#f0a752",
+      "bgColor": "#07070f",
+      "avatarRadius": "50%",
+      "effect": "particles",
+      "sparkle": true,
+      "viewCount": 0,
+      "badges": [
+        "owner",
+        "verified"
+      ],
+      "socials": {
+        "twitter": "",
+        "instagram": "",
+        "github": "",
+        "youtube": "",
+        "twitch": "",
+        "discord": "",
+        "spotify": ""
+      },
+      "links": [
+        {
+          "icon": "🌐",
+          "title": "voidpage.elementfx.com",
+          "url": "https://voidpage.elementfx.com",
+          "color": "#f0a752"
+        }
+      ],
+      "discord": {
+        "show": false,
+        "name": "",
+        "activity": ""
+      }
+    }
+  },
+  "badges": [
+    {
+      "key": "owner",
+      "label": "👑 Owner",
+      "color": "#f0a752",
+      "bg": "rgba(240,167,82,0.12)"
+    },
+    {
+      "key": "verified",
+      "label": "✓ Verified",
+      "color": "#60a5fa",
+      "bg": "rgba(96,165,250,0.1)"
+    },
+    {
+      "key": "premium",
+      "label": "★ Premium",
+      "color": "#fbbf24",
+      "bg": "rgba(251,191,36,0.1)"
+    },
+    {
+      "key": "og",
+      "label": "⚡ OG",
+      "color": "#f87171",
+      "bg": "rgba(248,113,113,0.1)"
+    },
+    {
+      "key": "booster",
+      "label": "💎 Booster",
+      "color": "#c084fc",
+      "bg": "rgba(192,132,252,0.1)"
+    },
+    {
+      "key": "staff",
+      "label": "🛡 Staff",
+      "color": "#34d399",
+      "bg": "rgba(52,211,153,0.1)"
+    }
+  ]
+}
